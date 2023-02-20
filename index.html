@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+ <html>
+   <head>
+     <style>
+       body {background-color: powderblue;}
+       h1   {color: red;}
+       p    {color: blue;}
+       ul   {color: blue;}
+     </style>
+   </head>
+  
+   <body>
+     <h1>¿Que es GPS?</h1>
+     <p> GPS significa "Global Positioning System" en inglés. Se trata de un sistema de navegación por satélite desarrollado por el gobierno de los Estados Unidos. Utiliza una red de satélites en órbita alrededor de la Tierra para determinar la posición de los objetivos en la superficie terrestre.</p>
+     
+     <h1>Aplicación</h1>
+     <p> El GPS se utiliza ampliamente en diversos campos como:
+       <ul>
+        <li>En automóviles</li>
+        <li>Navegación en marítima</li>
+        <li>Navegación aérea</li>
+        <li>Cartografía</li>
+        <li>Topografía</li>
+        <li>Geolocalización</li>
+        <li>Monitoreo de la actividad humana y natural</li>
+        <li> Empresas de rastreo </li>
+        <li> Empresas de seguridad </li> 
+       </ul>
+     </p>
+  </body>
+</html>
